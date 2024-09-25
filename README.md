@@ -1,5 +1,6 @@
 # node-server-uv
 ##
+- node 版本 18.20.3 
 ## 文件结构
 ```
 |-- node-server-uv
